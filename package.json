@@ -1,0 +1,14 @@
+{
+  "name": "neatle-bluez",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inova IT",
+  "license": "MIT",
+  "dependencies": {
+    "dbus-native": "^0.2.0"
+  }
+}
